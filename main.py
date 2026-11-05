@@ -1,7 +1,7 @@
 import warnings
 warnings.filterwarnings("ignore", category=RuntimeWarning)
 
-from Text import Text
+from text import Text
 import os
 import numpy as np
 import matplotlib.pyplot as plt
